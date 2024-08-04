@@ -63,7 +63,7 @@ The following test conditions were found:
 •	Payment Processing
 •	Order History and Details
 1.4 Test Design
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here.
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications.
 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 •	Test environment setup and configuration
@@ -80,7 +80,6 @@ Summary of Bugs Found:
 Full regression testing is needed on the impacted areas after the bugs are fixed, and retesting will be done for every functionality that was previously failed.
 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
-The traceability matrix was generated and can be found here.
 Test Execution Chart:
  
 The final report shows that a number of 3 tests have failed out of a total of 25.
