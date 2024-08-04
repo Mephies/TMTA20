@@ -18,7 +18,7 @@
 
 **The Test Plan is designed to describe all details of testing for all the modules from the Magento Demo Store application.**
 
-**The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found** [**here**]()**.**
+**The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.**
 
 **1.1.1 Roles Assigned to the Project and Persons Allocated**
 
@@ -95,7 +95,7 @@
 
 **1.4 Test Design**
 
-**Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed** [**here**]()**.**
+**Functional test cases were created in Zephyr Squad based on the analysis of the specifications.**
 
 **1.5 Test Implementation**
 
@@ -123,22 +123,3 @@
 **1.7 Test Completion**
 
 **As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.**
-
-**The traceability matrix was generated and can be found** [**here**]()**.**
-
-**Test Execution Chart:**
-
-**The final report shows that a number of 3 tests have failed out of a total of 25.**
-
-**A total of 3 bugs were found, from which 2 are high and 1 is medium.**
-
-**General Conclusion:**
-
--   **Test Cases: 25 created, 22 passed, 3 failed**
--   **Test Coverage: Approximately 85% of the in-scope requirements were covered.**
--   **Uncovered Functionalities: Detailed performance testing was not conducted; some aspects of security testing were not covered.**
--   **Product Impact: The bugs identified do not critically impact the product's launch but should be addressed promptly.**
--   **Recommendations: It is recommended to fix the identified bugs before the product goes live. Further security and performance testing should be scheduled in future cycles.**
--   **Lessons Learned: Importance of early involvement in test planning for risk mitigation; need for better cross-browser and mobile device test strategies.**
-
-**This concludes the testing plan and execution summary for the Magento Demo Store.**
