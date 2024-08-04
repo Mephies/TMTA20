@@ -80,4 +80,3 @@ Summary of Bugs Found:
 Full regression testing is needed on the impacted areas after the bugs are fixed, and retesting will be done for every functionality that was previously failed.
 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
-Test Execution Chart:
