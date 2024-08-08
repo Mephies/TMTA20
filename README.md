@@ -78,7 +78,7 @@
 
 **The monitoring and control process was implemented to ensure the test progress and quality were aligned with the plan. The test status report from Zephyr Squad reflects the activity and progress of testing, updated daily.**
 
-![](media/07a346507d5c77cb5c26049ba8024f28.png)
+![alt text](https://github.com/Mephies/TMTA20/blob/main/Poze/Test%20Metrics.png)
 
 **1.3 Test Analysis**
 
