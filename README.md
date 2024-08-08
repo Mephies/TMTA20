@@ -22,10 +22,10 @@
 
 **1.1.1 Roles Assigned to the Project and Persons Allocated**
 
--   **Project Manager: John Doe**
--   **Product Owner: Jane Smith**
--   **Software Developer: Alice Brown**
--   **QA Engineer: Your Name**
+-   **Project Manager: Alin Suceveanu**
+-   **Product Owner: Alecu Lunguleac**
+-   **Software Developer: Tutuca Petre**
+-   **QA Engineer: Tudor Itu**
 
 **1.1.2 Entry Criteria Defined**
 
