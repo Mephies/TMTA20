@@ -176,7 +176,7 @@
 
 **Traceability Matrix**
 
-**![](media/dda2fc56195c98aa4199c065235d64fd.png)**
+**![alt text](https://github.com/Mephies/TMTA20/blob/main/Poze/Matrice%202.png)**
 
 The traceability matrix was generated and can be found [**HERE**](https://itfclasses.atlassian.net/projects/TMTA20TI?selectedItem=com.thed.zephyr.je__traceability-project-level)
 
