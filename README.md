@@ -114,9 +114,9 @@
 
 **Summary of Bugs Found:**
 
--   **Bug 001: Registration form not accepting valid email format (Priority: High, Severity: Critical)**
--   **Bug 002: Product images not loading on Firefox (Priority: Medium, Severity: Major)**
--   **Bug 003: Checkout button not responsive on mobile view (Priority: High, Severity: Major)**
+-   **Bug 001: Screen reader does not recognize the search bar (Priority: High, Severity: Major)**
+-   **Bug 002: Out-of-stock products aren't indicated properly. (Priority: Medium, Severity: Medium)**
+-   **Bug 003: The "No Results" message is incomplete. (Priority: Low, Severity: Low)**
 
 **Full regression testing is needed on the impacted areas after the bugs are fixed, and retesting will be done for every functionality that was previously failed.**
 
@@ -126,13 +126,13 @@
 
 **Test Execution Chart:**
 
-**The final report shows that a number of 3 tests have failed out of a total of 25.**
+**The final report shows that a number of 3 tests have failed out of a total of 12.**
 
-**A total of 3 bugs were found, from which 2 are high and 1 is medium.**
+**A total of 3 bugs were found, from which 1 is high, 1 is medium and 1 is low.**
 
 **General Conclusion:**
 
--   **Test Cases: 25 created, 22 passed, 3 failed**
+-   **Test Cases: 12 created, 9 passed, 3 failed**
 -   **Test Coverage: Approximately 85% of the in-scope requirements were covered.**
 -   **Uncovered Functionalities: Detailed performance testing was not conducted; some aspects of security testing were not covered.**
 -   **Product Impact: The bugs identified do not critically impact the product's launch but should be addressed promptly.**
