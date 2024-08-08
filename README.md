@@ -108,7 +108,7 @@
 
 **1.6 Test Execution**
 
-**Test cases are executed in the created test Cycle summary: Cycle 1 - User Registration and Shopping Flow**
+**Test cases are executed in the created test Cycle summary: Cycle 1 - Product Search and Filter**
 
 **Bugs have been created based on the failed tests.**
 
@@ -122,8 +122,6 @@
 
 **1.7 Test Completion**
 
-**As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.**
-
 **Test Execution Chart:**
 
 **The final report shows that a number of 3 tests have failed out of a total of 12.**
@@ -133,10 +131,8 @@
 **General Conclusion:**
 
 -   **Test Cases: 12 created, 9 passed, 3 failed**
--   **Test Coverage: Approximately 85% of the in-scope requirements were covered.**
 -   **Uncovered Functionalities: Detailed performance testing was not conducted; some aspects of security testing were not covered.**
 -   **Product Impact: The bugs identified do not critically impact the product's launch but should be addressed promptly.**
 -   **Recommendations: It is recommended to fix the identified bugs before the product goes live. Further security and performance testing should be scheduled in future cycles.**
--   **Lessons Learned: Importance of early involvement in test planning for risk mitigation; need for better cross-browser and mobile device test strategies.**
 
 **This concludes the testing plan and execution summary for the Magento Demo Store.**
