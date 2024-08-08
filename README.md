@@ -33,7 +33,6 @@
 -   **User stories and acceptance criteria finalized**
 -   **Test environment set up and configured**
 -   **Required tools and access to Jira and Zephyr Squad**
--   **All dependencies (third-party APIs, databases) available and stable**
 
 **1.1.3 Exit Criteria Defined**
 
@@ -51,13 +50,14 @@
 -   **UI Testing: Verification of UI elements' alignment, responsiveness, and consistency**
 -   **Cross-Browser Testing: Testing on Chrome, Firefox, Safari, and Edge**
 -   **Mobile Testing: Testing on iOS and Android devices**
--   **Security Testing: Basic security checks for user data protection**
+-   **Accessibility Testing: Basic accesibility features**
+
 
 **Tests Not in Scope:**
 
--   **Performance Testing: Not covered due to lack of suitable environment and tools**
--   **Accessibility Testing: Not specifically tested due to time constraints**
+-   **Performance Testing: Not specifically tested due to time constraints**
 -   **Load Testing: Out of scope for this phase**
+-   **Security Testing: Not covered due to lack of suitable environment and tools**
 
 **1.1.5 Risks Detected**
 
