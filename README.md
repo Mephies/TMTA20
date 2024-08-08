@@ -50,8 +50,7 @@
 -   **UI Testing: Verification of UI elements' alignment, responsiveness, and consistency**
 -   **Cross-Browser Testing: Testing on Chrome, Firefox, Safari, and Edge**
 -   **Mobile Testing: Testing on iOS and Android devices**
--   **Accessibility Testing: Basic accesibility features**
-
+-   **Accessibility Testing: Basic accessibility features**
 
 **Tests Not in Scope:**
 
@@ -79,6 +78,8 @@
 
 **The monitoring and control process was implemented to ensure the test progress and quality were aligned with the plan. The test status report from Zephyr Squad reflects the activity and progress of testing, updated daily.**
 
+![](media/07a346507d5c77cb5c26049ba8024f28.png)
+
 **1.3 Test Analysis**
 
 **The testing process was executed based on the application requirements. The requirements analysis was done in order to implement the early testing test principle.**
@@ -95,7 +96,59 @@
 
 **1.4 Test Design**
 
-**Functional test cases were created in Zephyr Squad based on the analysis of the specifications.**
+**Functional test cases were created in Zephyr Squad based on the analysis of the specifications. These test cases cover various aspects of the project.  
+**
+
+**Story: Product Search and Filter**
+
+-   **Verify search bar visibility**
+-   **Check placeholder text**
+-   **Verify Keyboard and Screen Reader Accessibility**
+-   **Check Auto-Suggest Feature**
+-   **Verify Relevant Product Results**
+-   **Check Product Details in Results**
+-   **Verify Result Display Time**
+-   **Check No Results Message**
+-   **Verify Suggestion Accuracy**
+-   **Check Suggestion Auto-fill**
+-   **Verify Direct Navigation from Suggestion**
+-   **Check Dynamic Suggestion Updates**
+-   **Verify Category Filter Display**
+-   **Check Category Filter Functionality**
+-   **Verify Multi-Category Selection**
+-   **Check Filter Removal**
+-   **Verify Price Range Filter Availability**
+-   **Check Filter Adjustment**
+-   **Verify Filter Input Methods**
+-   **Check Filter Summary**
+-   **Verify Multiple Filter Application**
+-   **Check Dynamic Update of Product List**
+-   **Verify Filter Display and Removal**
+-   **Check "Clear All" Functionality**
+-   **Verify Additional Filter Options**
+-   **Check Attribute Filter Functionality**
+-   **Verify Multiple Attribute Filter Application**
+-   **Check Attribute Filter Summary**
+-   **Verify Price Sorting Options**
+-   **Check Sorting Functionality**
+-   **Verify Sorting Indication**
+-   **Check Sorting Persistence**
+-   **Verify Popularity and Relevance Sorting Options**
+-   **Check Sorting by Criteria**
+-   **Verify Sorting Option Indication**
+-   **Check Sorting Consistency with Filters**
+-   **Verify Product Listing Details**
+-   **Check Product Detail Navigation**
+-   **Verify Discount Display**
+-   **Check Out-of-Stock Indication**
+-   **Verify Pagination Controls**
+-   **Check Page Number Navigation**
+-   **Verify Current Page Highlight**
+-   **Check Products Per Page Adjustment**
+-   **Verify Bookmark Functionality**
+-   **Check URL Update**
+-   **Verify Sharing Options**
+-   **Check Shared Link Functionality**
 
 **1.5 Test Implementation**
 
@@ -104,11 +157,10 @@
 -   **Test environment setup and configuration**
 -   **Test data preparation**
 -   **Accessibility to required tools and applications**
--   **Test case review and finalization**
+-   **Necessary permissions and access granted.**
+-   **Tools configured and validated.1.6 Test Execution**
 
-**1.6 Test Execution**
-
-**Test cases are executed in the created test Cycle summary: Cycle 1 - Product Search and Filter**
+**Test cases are executed in the created test Cycle summary: Search and filter products**
 
 **Bugs have been created based on the failed tests.**
 
@@ -121,6 +173,16 @@
 **Full regression testing is needed on the impacted areas after the bugs are fixed, and retesting will be done for every functionality that was previously failed.**
 
 **1.7 Test Completion**
+
+**Traceability Matrix**
+
+**![](media/dda2fc56195c98aa4199c065235d64fd.png)**
+
+The traceability matrix was generated and can be found [**HERE**](https://itfclasses.atlassian.net/projects/TMTA20TI?selectedItem=com.thed.zephyr.je__traceability-project-level)
+
+-   Regular updates to the Traceability matrix help maintain transparency and alignment between testing and project objectives throughout the test life cycle
+-   The matrix indicates the current status of each test case, helping to monitor the testing process and identify any gaps or missing coverage
+-   The matrix can be used for compliance purposes and to demonstrate that all requirements have been adequately tested and verified
 
 **Test Execution Chart:**
 
