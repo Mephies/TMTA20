@@ -116,8 +116,7 @@
 
 **1.4 Test Design**
 
-**Functional test cases were created in Zephyr Squad based on the analysis of the specifications. These test cases cover various aspects of the project.  
-**
+**Functional test cases were created in Zephyr Squad based on the analysis of the specifications. These test cases cover various aspects of the project.**
 
 **Story: Product Search and Filter**
 
