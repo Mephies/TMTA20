@@ -106,13 +106,16 @@
 
 **The following test conditions were found:**
 
--   **User Registration**
--   **Login and Logout**
--   **Product Search and Filter**
--   **Adding Products to Cart**
--   **Checkout Process**
--   **Payment Processing**
--   **Order History and Details**
+-   **Verify Relevant Product Results**
+-   **Verify Direct Navigation from Suggestion**
+-   **Verify Multi-Category Selection**
+-   **Check Sorting Consistency with Filters**
+-   **Verify Sorting Option Indication**
+-   **Verify Multiple Attribute Filter Application**
+-   **Verify Multiple Filter Application**
+-   **Check Sorting Consistency with Filters**
+-   **Verify Bookmark Functionality**
+-   **Verify Current Page Highlight**
 
 **1.4 Test Design**
 
