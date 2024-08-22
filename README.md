@@ -218,6 +218,8 @@ The traceability matrix was generated and can be found [**HERE**](https://itfcla
 
 **Test Execution Chart:**
 
+![alt text](https://github.com/Mephies/TMTA20/blob/main/Poze/Raport%20de%20Executie.png)
+
 **The final report shows that a number of 3 tests have failed out of a total of 12.**
 
 **A total of 3 bugs were found, from which 1 is high, 1 is medium and 1 is low.**
