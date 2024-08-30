@@ -27,48 +27,48 @@ The plan identifies the items to be tested, the features to be tested, the types
 -   Software Developer: Tutuca Petre
 -   QA Engineer: Tudor Itu
 
-**1.1.2 Entry Criteria Defined**
+1.1.2 Entry Criteria Defined
 
 - Requirements: The functional and non-functional requirements must be clearly defined and accepted.
 - Tools: Must be installed, configured, and accessible to the testers; such as Jira and Zephyr Squad.
 - Resources: The human resources, including testers and developers, must be available.
 - Documentation: Must be completed and reviewed; such as the test plan, test cases and any other necessary documentation.
 
-**1.1.3 Exit Criteria Defined**
+1.1.3 Exit Criteria Defined
 
--   **All planned test cases executed**
--   **All critical and major bugs resolved**
--   **No open blockers or critical bugs**
--   **Successful regression testing completed**
--   **Test coverage meets the defined threshold**
+-   All planned test cases executed
+-   All critical and major bugs resolved
+-   No open blockers or critical bugs
+-   Successful regression testing completed
+-   Test coverage meets the defined threshold
 
-**1.1.4 Test Scope**
+1.1.4 Test Scope
 
-**Tests in Scope:**
+Tests in Scope:
 
--   **Functional Testing: User Registration, Login, Product Search, Add to Cart, Checkout, Payment Processing**
--   **UI Testing: Verification of UI elements' alignment, responsiveness, and consistency**
--   **Cross-Browser Testing: Testing on Chrome, Firefox, Safari, and Edge**
--   **Mobile Testing: Testing on iOS and Android devices**
--   **Accessibility Testing: Basic accessibility features**
+-   Functional Testing: User Registration, Login, Product Search, Add to Cart, Checkout, Payment Processing
+-   UI Testing: Verification of UI elements' alignment, responsiveness, and consistency
+-   Cross-Browser Testing: Testing on Chrome, Firefox, Safari, and Edge
+-   Mobile Testing: Testing on iOS and Android devices
+-   Accessibility Testing: Basic accessibility features
 
-**Tests Not in Scope:**
+Tests Not in Scope:
 
--   **Performance Testing: Not specifically tested due to time constraints**
--   **Load Testing: Out of scope for this phase**
--   **Security Testing: Not covered due to lack of suitable environment and tools**
+-   Performance Testing: Not specifically tested due to time constraints
+-   Load Testing: Out of scope for this phase
+-   Security Testing: Not covered due to lack of suitable environment and tools
 
-**1.1.5 Risks Detected**
+1.1.5 Risks Detected
 
-**Project Risks:**
+Project Risks:
 
--   **Delays in test environment setup**
--   **Limited access to mobile devices for testing**
+-   Delays in test environment setup
+-   Limited access to mobile devices for testing
 
-**Product Risks:**
+Product Risks:
 
--   **Potential security vulnerabilities due to lack of comprehensive security testing**
--   **Inconsistent UI behavior across different browsers**
+-   Potential security vulnerabilities due to lack of comprehensive security testing
+-   Inconsistent UI behavior across different browsers
 
 **1.1.6 Evaluating Entry Criteria**
 
