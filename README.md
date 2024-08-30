@@ -87,13 +87,13 @@ The testing process was executed based on the application requirements. The requ
 The following test conditions were found:
 
 - Verify Relevant Product Results
-- Details:
+Details:   
 - Check that valid keywords yield relevant product listings.
 - Navigate to the Magento website home page.
 - The search results display products that match the entered keyword.
   
 - Verify Direct Navigation from Suggestion
-- Details:
+- Details:   
 - Confirm clicking a suggestion directs the user to the product page.
 - Navigate to the Magento website home page.
 - The user is directed to the product detail page of the selected suggestion.
@@ -184,7 +184,15 @@ Summary of Bugs Found:
 
 Full regression testing is needed on the impacted areas after the bugs are fixed, and retesting will be done for every functionality that was previously failed.
 
-1.7 Test Completion
+## 1.6. Test Execution
+
+Test cases are executed on the created test Cycle summary:
+
+The following is a summary of the bugs that have been found
+
+Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
+
+## 1.7 Test Completion
 
 Traceability Matrix
 
