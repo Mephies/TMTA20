@@ -228,4 +228,4 @@ General Conclusion:
 -   Product Impact: The bugs identified do not critically impact the product's launch but should be addressed promptly.
 -   Recommendations: It is recommended to fix the identified bugs before the product goes live. Further security and performance testing should be scheduled in future cycles.
 
-This concludes the testing plan and execution summary for the Magento Demo Store.
+**This concludes the testing plan and execution summary for the Magento Demo Store.**
