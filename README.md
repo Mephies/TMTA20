@@ -70,97 +70,97 @@ Product Risks:
 -   Potential security vulnerabilities due to lack of comprehensive security testing
 -   Inconsistent UI behavior across different browsers
 
-**1.1.6 Evaluating Entry Criteria**
+1.1.6 Evaluating Entry Criteria
 
-**The entry criteria defined in the Test Planning phase have been achieved, and the test process can continue.**
+The entry criteria defined in the Test Planning phase have been achieved, and the test process can continue.
 
-**1.2 Test Monitoring and Control**
+1.2 Test Monitoring and Control
 
-**The monitoring and control process was implemented to ensure the test progress and quality were aligned with the plan. The test status report from Zephyr Squad reflects the activity and progress of testing, updated daily.**
+The monitoring and control process was implemented to ensure the test progress and quality were aligned with the plan. The test status report from Zephyr Squad reflects the activity and progress of testing, updated daily.
 
 ![alt text](https://github.com/Mephies/TMTA20/blob/main/Poze/Test%20Metrics.png)
 
-**1.3 Test Analysis**
+1.3 Test Analysis
 
-**The testing process was executed based on the application requirements. The requirements analysis was done in order to implement the early testing test principle.**
+The testing process was executed based on the application requirements. The requirements analysis was done in order to implement the early testing test principle.
 
-**The following test conditions were found:**
+The following test conditions were found:
 
-- **Verify Relevant Product Results**
+- Verify Relevant Product Results
 - Details:
 - Check that valid keywords yield relevant product listings.
 - Navigate to the Magento website home page.
 - The search results display products that match the entered keyword.
   
-- **Verify Direct Navigation from Suggestion**
+- Verify Direct Navigation from Suggestion
 - Details:
 - Confirm clicking a suggestion directs the user to the product page.
 - Navigate to the Magento website home page.
 - The user is directed to the product detail page of the selected suggestion.
 
--   **Verify Multi-Category Selection**
--   **Check Sorting Consistency with Filters**
--   **Verify Sorting Option Indication**
--   **Verify Multiple Attribute Filter Application**
--   **Verify Multiple Filter Application**
--   **Check Sorting Consistency with Filters**
--   **Verify Bookmark Functionality**
--   **Verify Current Page Highlight**
+- Verify Multi-Category Selection
+- Check Sorting Consistency with Filters
+- Verify Sorting Option Indication
+- Verify Multiple Attribute Filter Application
+- Verify Multiple Filter Application
+- Check Sorting Consistency with Filters
+- Verify Bookmark Functionality
+- Verify Current Page Highlight
 
-**1.4 Test Design**
+1.4 Test Design
 
-**Functional test cases were created in Zephyr Squad based on the analysis of the specifications. These test cases cover various aspects of the project.**
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. These test cases cover various aspects of the project.
 
-**Story: Product Search and Filter**
+Story: Product Search and Filter
 
--   **Verify search bar visibility**
--   **Check placeholder text**
--   **Verify Keyboard and Screen Reader Accessibility**
--   **Check Auto-Suggest Feature**
--   **Verify Relevant Product Results**
--   **Check Product Details in Results**
--   **Verify Result Display Time**
--   **Check No Results Message**
--   **Verify Suggestion Accuracy**
--   **Check Suggestion Auto-fill**
--   **Verify Direct Navigation from Suggestion**
--   **Check Dynamic Suggestion Updates**
--   **Verify Category Filter Display**
--   **Check Category Filter Functionality**
--   **Verify Multi-Category Selection**
--   **Check Filter Removal**
--   **Verify Price Range Filter Availability**
--   **Check Filter Adjustment**
--   **Verify Filter Input Methods**
--   **Check Filter Summary**
--   **Verify Multiple Filter Application**
--   **Check Dynamic Update of Product List**
--   **Verify Filter Display and Removal**
--   **Check "Clear All" Functionality**
--   **Verify Additional Filter Options**
--   **Check Attribute Filter Functionality**
--   **Verify Multiple Attribute Filter Application**
--   **Check Attribute Filter Summary**
--   **Verify Price Sorting Options**
--   **Check Sorting Functionality**
--   **Verify Sorting Indication**
--   **Check Sorting Persistence**
--   **Verify Popularity and Relevance Sorting Options**
--   **Check Sorting by Criteria**
--   **Verify Sorting Option Indication**
--   **Check Sorting Consistency with Filters**
--   **Verify Product Listing Details**
--   **Check Product Detail Navigation**
--   **Verify Discount Display**
--   **Check Out-of-Stock Indication**
--   **Verify Pagination Controls**
--   **Check Page Number Navigation**
--   **Verify Current Page Highlight**
--   **Check Products Per Page Adjustment**
--   **Verify Bookmark Functionality**
--   **Check URL Update**
--   **Verify Sharing Options**
--   **Check Shared Link Functionality**
+- Verify search bar visibility
+- Check placeholder text
+- Verify Keyboard and Screen Reader Accessibility
+- Check Auto-Suggest Feature
+- Verify Relevant Product Results
+- Check Product Details in Results
+- Verify Result Display Time
+- Check No Results Message
+- Verify Suggestion Accuracy
+- Check Suggestion Auto-fill
+- Verify Direct Navigation from Suggestion
+- Check Dynamic Suggestion Updates
+- Verify Category Filter Display
+- Check Category Filter Functionality
+- Verify Multi-Category Selection
+- Check Filter Removal
+- Verify Price Range Filter Availability
+- Check Filter Adjustment
+- Verify Filter Input Methods
+- Check Filter Summary
+- Verify Multiple Filter Application
+- Check Dynamic Update of Product List
+- Verify Filter Display and Removal
+- Check "Clear All" Functionality
+- Verify Additional Filter Options
+- Check Attribute Filter Functionality
+- Verify Multiple Attribute Filter Application
+- Check Attribute Filter Summary
+- Verify Price Sorting Options
+- Check Sorting Functionality
+- Verify Sorting Indication
+- Check Sorting Persistence
+- Verify Popularity and Relevance Sorting Options
+- Check Sorting by Criteria
+- Verify Sorting Option Indication
+- Check Sorting Consistency with Filters
+- Verify Product Listing Details
+- Check Product Detail Navigation
+- Verify Discount Display
+- Check Out-of-Stock Indication
+- Verify Pagination Controls
+- Check Page Number Navigation
+- Verify Current Page Highlight
+- Check Products Per Page Adjustment
+- Verify Bookmark Functionality
+- Check URL Update
+- Verify Sharing Options
+- Check Shared Link Functionality
 
 **1.5 Test Implementation**
 
