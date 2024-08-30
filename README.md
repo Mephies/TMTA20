@@ -1,4 +1,4 @@
-#Testing Project for Magento Demo Store#
+#Testing Project for Magento Demo Store
 
 The scope of the final project for the ITF Manual Testing Course is to use all the gained knowledge throughout the course and apply it in practice, using a live application.
 
