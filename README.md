@@ -14,7 +14,7 @@ Testing Process
 
 The test process was performed based on the standard test process as described below.
 
-1.1 Test Planning
+## 1.1 Test Planning
 
 The Test Plan is designed to describe all details of testing for all the modules from the Magento Demo Store application.
 
@@ -74,13 +74,13 @@ Product Risks:
 
 The entry criteria defined in the Test Planning phase have been achieved, and the test process can continue.
 
-1.2 Test Monitoring and Control
+## 1.2 Test Monitoring and Control
 
 The monitoring and control process was implemented to ensure the test progress and quality were aligned with the plan. The test status report from Zephyr Squad reflects the activity and progress of testing, updated daily.
 
 ![alt text](https://github.com/Mephies/TMTA20/blob/main/Poze/Test%20Metrics.png)
 
-1.3 Test Analysis
+## 1.3 Test Analysis
 
 The testing process was executed based on the application requirements. The requirements analysis was done in order to implement the early testing test principle.
 
@@ -107,7 +107,7 @@ The following test conditions were found:
 - Verify Bookmark Functionality
 - Verify Current Page Highlight
 
-1.4 Test Design
+## 1.4 Test Design
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. These test cases cover various aspects of the project.
 
@@ -162,7 +162,7 @@ Story: Product Search and Filter
 - Verify Sharing Options
 - Check Shared Link Functionality
 
-1.5 Test Implementation
+## 1.5 Test Implementation
 
 The following elements are needed to be ready before the test execution phase begins:
 
