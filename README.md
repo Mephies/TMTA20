@@ -29,30 +29,12 @@
 
 **1.1.2 Entry Criteria Defined**
 
-**Requirement Documentation:**
 
--   All functional specifications and user stories for the "User Registration and Shopping" module must be complete, reviewed, and approved by stakeholders.
--   Clear acceptance criteria must be defined for each user story and feature.
+    Requirements: All functional and non-functional requirements must be clearly defined and approved.
+    Tools: Jira and Zephyr Squad must be installed, configured, and accessible to the testing team.
+    Resources: All required human resources, including testers and developers, must be available.
+    Documentation: Test plan, test cases, and any necessary documentation must be completed and reviewed.
 
-**Test Environment Setup:**
-
--   The test environment, which closely mirrors the production environment, must be fully set up and accessible.
--   Access to the Magento Demo Store should be granted with all necessary permissions for testers to perform their tasks.
-
-**Test Data Availability:**
-
--   Relevant test data should be prepared and validated, including user profiles, a variety of product types (in-stock, out-of-stock, discounted, etc.), and necessary credentials.
--   Data sets for cross-browser and mobile testing should be available.
-
-**Test Cases Preparation:**
-
--   Test cases must be reviewed and approved by the QA lead and relevant stakeholders.
--   A traceability matrix should be developed to ensure that all requirements are covered by the test cases.
-
-**Tool and Resource Accessibility:**
-
--   Tools like Jira and Zephyr Squad should be properly configured and accessible to all team members involved in the testing process.
--   Testers must have access to necessary testing tools and platforms, including mobile devices for testing, and browsers for cross-browser testing.
 
 **1.1.3 Exit Criteria Defined**
 
