@@ -197,7 +197,20 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 Test cases are executed on the created test Cycle summary:
 
-The following is a summary of the bugs that have been found
+- Search and filter products
+
+The following is a summary of the bugs that have been found:
+
+1. Screen reader does not recognize the search bar
+   - Priority: 
+   - Severity: 
+2. Out-of-stock products aren't indicated properly
+   - Priority: 
+   - Severity: 
+3. The "No Results" message is incomplete
+   - Priority: 
+   - Severity: 
+
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
