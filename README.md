@@ -20,21 +20,21 @@ The Test Plan is designed to describe all details of testing for all the modules
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
-1.1.1 Roles Assigned to the Project and Persons Allocated
+**1.1.1 Roles Assigned to the Project and Persons Allocated**
 
 -   Project Manager: Alin Suceveanu
 -   Product Owner: Alecu Lunguleac
 -   Software Developer: Tutuca Petre
 -   QA Engineer: Tudor Itu
 
-1.1.2 Entry Criteria Defined
+**1.1.2 Entry Criteria Defined**
 
 - Requirements: The functional and non-functional requirements must be clearly defined and accepted.
 - Tools: Must be installed, configured, and accessible to the testers; such as Jira and Zephyr Squad.
 - Resources: The human resources, including testers and developers, must be available.
 - Documentation: Must be completed and reviewed; such as the test plan, test cases and any other necessary documentation.
 
-1.1.3 Exit Criteria Defined
+**1.1.3 Exit Criteria Defined**
 
 -   All planned test cases executed
 -   All critical and major bugs resolved
@@ -42,7 +42,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 -   Successful regression testing completed
 -   Test coverage meets the defined threshold
 
-1.1.4 Test Scope
+**1.1.4 Test Scope**
 
 Tests in Scope:
 
@@ -58,7 +58,7 @@ Tests Not in Scope:
 -   Load Testing: Out of scope for this phase
 -   Security Testing: Not covered due to lack of suitable environment and tools
 
-1.1.5 Risks Detected
+**1.1.5 Risks Detected**
 
 Project Risks:
 
@@ -70,7 +70,7 @@ Product Risks:
 -   Potential security vulnerabilities due to lack of comprehensive security testing
 -   Inconsistent UI behavior across different browsers
 
-1.1.6 Evaluating Entry Criteria
+**1.1.6 Evaluating Entry Criteria**
 
 The entry criteria defined in the Test Planning phase have been achieved, and the test process can continue.
 
