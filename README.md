@@ -86,7 +86,7 @@ The testing process was executed based on the application requirements. The requ
 
 The following test conditions were found:
 
-- Verify Relevant Product Results
+1. Verify Relevant Product Results
 
 
 Details:
@@ -95,7 +95,7 @@ Details:
 - The search results display products that match the entered keyword.
 
 
-- Verify Direct Navigation from Suggestion
+2. Verify Direct Navigation from Suggestion
 
 
 Details:
@@ -107,14 +107,14 @@ Details:
 And more:
 
 
-- Verify Multi-Category Selection
-- Check Sorting Consistency with Filters
-- Verify Sorting Option Indication
-- Verify Multiple Attribute Filter Application
-- Verify Multiple Filter Application
-- Check Sorting Consistency with Filters
-- Verify Bookmark Functionality
-- Verify Current Page Highlight
+3. Verify Multi-Category Selection
+4. Check Sorting Consistency with Filters
+5. Verify Sorting Option Indication
+6. Verify Multiple Attribute Filter Application
+7. Verify Multiple Filter Application
+8. Check Sorting Consistency with Filters
+9. Verify Bookmark Functionality
+10. Verify Current Page Highlight
 
 ## 1.4 Test Design
 
