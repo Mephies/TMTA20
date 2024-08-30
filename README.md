@@ -29,12 +29,10 @@
 
 **1.1.2 Entry Criteria Defined**
 
-
-    Requirements: All functional and non-functional requirements must be clearly defined and approved.
-    Tools: Jira and Zephyr Squad must be installed, configured, and accessible to the testing team.
-    Resources: All required human resources, including testers and developers, must be available.
-    Documentation: Test plan, test cases, and any necessary documentation must be completed and reviewed.
-
+- Requirements: All functional and non-functional requirements must be clearly defined and approved.
+- Tools: Jira and Zephyr Squad must be installed, configured, and accessible to the testing team.
+- Resources: All required human resources, including testers and developers, must be available.
+- Documentation: Test plan, test cases, and any necessary documentation must be completed and reviewed.
 
 **1.1.3 Exit Criteria Defined**
 
