@@ -1,31 +1,31 @@
-**Testing Project for Magento Demo Store**
+#Testing Project for Magento Demo Store#
 
-**The scope of the final project for the ITF Manual Testing Course is to use all the gained knowledge throughout the course and apply it in practice, using a live application.**
+The scope of the final project for the ITF Manual Testing Course is to use all the gained knowledge throughout the course and apply it in practice, using a live application.
 
-**Application under test: Magento Demo Store**
+Application under test: Magento Demo Store
 
-**Tools used: Jira, Zephyr Squad**
+Tools used: Jira, Zephyr Squad
 
-**Functional Specifications**
+Functional Specifications
 
-**The below story describes the functional specifications of the "User Registration and Shopping" module, for which the final project is performed upon.**
+The below story describes the functional specifications of the "User Registration and Shopping" module, for which the final project is performed upon.
 
-**Testing Process**
+Testing Process
 
-**The test process was performed based on the standard test process as described below.**
+The test process was performed based on the standard test process as described below.
 
-**1.1 Test Planning**
+1.1 Test Planning
 
-**The Test Plan is designed to describe all details of testing for all the modules from the Magento Demo Store application.**
+The Test Plan is designed to describe all details of testing for all the modules from the Magento Demo Store application.
 
-**The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.**
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
-**1.1.1 Roles Assigned to the Project and Persons Allocated**
+1.1.1 Roles Assigned to the Project and Persons Allocated
 
--   **Project Manager: Alin Suceveanu**
--   **Product Owner: Alecu Lunguleac**
--   **Software Developer: Tutuca Petre**
--   **QA Engineer: Tudor Itu**
+-   Project Manager: Alin Suceveanu
+-   Product Owner: Alecu Lunguleac
+-   Software Developer: Tutuca Petre
+-   QA Engineer: Tudor Itu
 
 **1.1.2 Entry Criteria Defined**
 
