@@ -93,7 +93,6 @@ Details:
 - Check that valid keywords yield relevant product listings.
 - Navigate to the Magento website home page.
 - The search results display products that match the entered keyword.
-  
 - Verify Direct Navigation from Suggestion
 
 
@@ -101,6 +100,7 @@ Details:
 - Confirm clicking a suggestion directs the user to the product page.
 - Navigate to the Magento website home page.
 - The user is directed to the product detail page of the selected suggestion.
+
 
 - Verify Multi-Category Selection
 - Check Sorting Consistency with Filters
