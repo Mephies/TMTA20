@@ -102,6 +102,8 @@ Details:
 - The user is directed to the product detail page of the selected suggestion.
 
 
+And more:
+
 
 - Verify Multi-Category Selection
 - Check Sorting Consistency with Filters
