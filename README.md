@@ -87,13 +87,17 @@ The testing process was executed based on the application requirements. The requ
 The following test conditions were found:
 
 - Verify Relevant Product Results
-Details:   
+
+
+Details:
 - Check that valid keywords yield relevant product listings.
 - Navigate to the Magento website home page.
 - The search results display products that match the entered keyword.
   
 - Verify Direct Navigation from Suggestion
-- Details:   
+
+
+Details:
 - Confirm clicking a suggestion directs the user to the product page.
 - Navigate to the Magento website home page.
 - The user is directed to the product detail page of the selected suggestion.
