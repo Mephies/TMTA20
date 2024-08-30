@@ -93,6 +93,8 @@ Details:
 - Check that valid keywords yield relevant product listings.
 - Navigate to the Magento website home page.
 - The search results display products that match the entered keyword.
+
+
 - Verify Direct Navigation from Suggestion
 
 
