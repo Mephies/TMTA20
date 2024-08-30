@@ -162,33 +162,33 @@ Story: Product Search and Filter
 - Verify Sharing Options
 - Check Shared Link Functionality
 
-**1.5 Test Implementation**
+1.5 Test Implementation
 
-**The following elements are needed to be ready before the test execution phase begins:**
+The following elements are needed to be ready before the test execution phase begins:
 
--   **Test environment setup and configuration**
--   **Test data preparation**
--   **Accessibility to required tools and applications**
--   **Necessary permissions and access granted.**
--   **Tools configured and validated.1.6 Test Execution**
+-   Test environment setup and configuration
+-   Test data preparation
+-   Accessibility to required tools and applications
+-   Necessary permissions and access granted.
+-   Tools configured and validated.1.6 Test Execution
 
-**Test cases are executed in the created test Cycle summary: Search and filter products**
+Test cases are executed in the created test Cycle summary: Search and filter products
 
-**Bugs have been created based on the failed tests.**
+Bugs have been created based on the failed tests.
 
-**Summary of Bugs Found:**
+Summary of Bugs Found:
 
--   **Bug 001: Screen reader does not recognize the search bar (Priority: High, Severity: Major)**
--   **Bug 002: Out-of-stock products aren't indicated properly. (Priority: Medium, Severity: Medium)**
--   **Bug 003: The "No Results" message is incomplete. (Priority: Low, Severity: Low)**
+-   Bug 001: Screen reader does not recognize the search bar (Priority: High, Severity: Major)
+-   Bug 002: Out-of-stock products aren't indicated properly. (Priority: Medium, Severity: Medium)
+-   Bug 003: The "No Results" message is incomplete. (Priority: Low, Severity: Low)
 
-**Full regression testing is needed on the impacted areas after the bugs are fixed, and retesting will be done for every functionality that was previously failed.**
+Full regression testing is needed on the impacted areas after the bugs are fixed, and retesting will be done for every functionality that was previously failed.
 
-**1.7 Test Completion**
+1.7 Test Completion
 
-**Traceability Matrix**
+Traceability Matrix
 
-**![alt text](https://github.com/Mephies/TMTA20/blob/main/Poze/Matrice%203.png)**
+![alt text](https://github.com/Mephies/TMTA20/blob/main/Poze/Matrice%203.png)
 
 The traceability matrix was generated and can be found [**HERE**](https://itfclasses.atlassian.net/projects/TMTA20TI?selectedItem=com.thed.zephyr.je__traceability-project-level)
 
@@ -196,19 +196,19 @@ The traceability matrix was generated and can be found [**HERE**](https://itfcla
 -   The matrix indicates the current status of each test case, helping to monitor the testing process and identify any gaps or missing coverage
 -   The matrix can be used for compliance purposes and to demonstrate that all requirements have been adequately tested and verified
 
-**Test Execution Chart:**
+Test Execution Chart:
 
 ![alt text](https://github.com/Mephies/TMTA20/blob/main/Poze/Raport%20de%20Executie.png)
 
-**The final report shows that a number of 3 tests have failed out of a total of 12.**
+The final report shows that a number of 3 tests have failed out of a total of 12.
 
-**A total of 3 bugs were found, from which 1 is high, 1 is medium and 1 is low.**
+A total of 3 bugs were found, from which 1 is high, 1 is medium and 1 is low.
 
-**General Conclusion:**
+General Conclusion:
 
--   **Test Cases: 12 created, 9 passed, 3 failed**
--   **Uncovered Functionalities: Detailed performance testing was not conducted; some aspects of security testing were not covered.**
--   **Product Impact: The bugs identified do not critically impact the product's launch but should be addressed promptly.**
--   **Recommendations: It is recommended to fix the identified bugs before the product goes live. Further security and performance testing should be scheduled in future cycles.**
+-   Test Cases: 12 created, 9 passed, 3 failed
+-   Uncovered Functionalities: Detailed performance testing was not conducted; some aspects of security testing were not covered.
+-   Product Impact: The bugs identified do not critically impact the product's launch but should be addressed promptly.
+-   Recommendations: It is recommended to fix the identified bugs before the product goes live. Further security and performance testing should be scheduled in future cycles.
 
-**This concludes the testing plan and execution summary for the Magento Demo Store.**
+This concludes the testing plan and execution summary for the Magento Demo Store.
